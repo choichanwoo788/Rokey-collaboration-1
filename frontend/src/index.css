@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 그 아래에 배경색 등 추가 코드를 넣으세요 */
+body {
+  margin: 0;
+  background-color: #111827;
+}
